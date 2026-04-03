@@ -6,7 +6,6 @@ A React-based web application to manage campus placements, allowing students to 
 ## 🛠 Tech Stack
 - React.js
 - JavaScript
-- HTML, CSS
 
 ## ✨ Features
 - Student Dashboard
@@ -14,8 +13,4 @@ A React-based web application to manage campus placements, allowing students to 
 - Application Tracking
 - Responsive Design
 
-## 🔗 Live Demo
-(Add Netlify/Vercel link here if deployed)
 
-## 📸 Screenshots
-(Add screenshots here)
